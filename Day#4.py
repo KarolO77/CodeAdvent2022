@@ -14,7 +14,6 @@ for section in data:
 
 print("Answer to part 1: ", total)
 
-
 "part 2"
 
 total = 0
