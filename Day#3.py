@@ -1,7 +1,3 @@
-# rearranged - uporządkowane
-# compartments - przedziały
-# rucksack - plecak
-
 with open('day3.txt') as file:
     rucksacks = [i for i in file.read().split("\n")]
 

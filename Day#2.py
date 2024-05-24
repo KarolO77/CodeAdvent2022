@@ -4,21 +4,6 @@ with open("day2.txt") as file:
 countedPoints = 0
 countedPointsPt2 = 0
 
-"""
-pt1
-rock AX - 1
-paper BY - 2
-scissors CZ - 3
-loose - 0
-draw - 3
-win - 6
-
-pt2
-X - loose
-Y - draw
-Z - win
-"""
-
 results = {
     "A X": 4,
     "A Y": 8,
